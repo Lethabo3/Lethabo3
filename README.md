@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lethabo
-- 👀 I’m interested in Coding and Traing im currently learning both
+- 👀 I’m interested in Coding(Web Development) and Traing im currently learning both
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : instinctslump@gmail.com
 
 <!---
 Lethabo3/Lethabo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
