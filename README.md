@@ -1,11 +1,6 @@
-# hi
+# 
 
 ```console
-$ whoami
-lethabo
-
-$ cat skills.json
-{
-  "code": true
-}
+$ echo "hi"
+hi
 ```
