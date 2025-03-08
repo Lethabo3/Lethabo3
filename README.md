@@ -13,20 +13,12 @@ C:\Users\Lethabo> dir
 > systeminfo
 OS Name:           LethaboOS
 Occupation:        CS Student
-Coding Mode:       AI Vibe Coding
-Stack:             Python, C++, JS
-Anime:             Naruto
+Stack:             i just vibe code bro
+Favorite Anime:    Naruto
 Currently Watching: Orb: On the Movement of the Earth
 
-> netstat -a
-Active Connections:
-  [X] lethabo_x
-  [Portfolio] lethabo.dev
-  [Email] lethabo@terminal
-
-> echo Running terminal vibes...
-> dir /coolness
-> 100% AUTHENTIC HACKER ENERGY DETECTED
+> echo Running terminal...
+> dir /somecoolstuff
 
 > exit
 ```
