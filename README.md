@@ -1,16 +1,22 @@
-# Hey, I’m Lethabo 👾
+/* [Your Name] - v0.9.9-beta */
+> Initiating boot sequence...
 
-CS student | Code wrangler | Anime enthusiast
+> [CS CORE] Online  
+> [ANIME DRIVE] Overclocked  
+> [DESIGN PROTOCOL] Aesthetic AF  
 
-- 🔍 Exploring elegant solutions in code & design  
-- ⚙️ Building stuff that’s minimal, fast, and *cool*  
-- 🎨 Inspired by sleek UI, anime aesthetics, and cyberpunk vibes  
-- 📺 Probably watching *Hunter x Hunter* or debugging loops  
+// STATUS:  
+- Hacking reality with code & caffeine  
+- Chasing clean algorithms like a shonen protagonist  
+- Rendering life in 144fps, neon-lit frames  
 
-## Current Stack  
-> Python · C++ · JavaScript · [Your Frameworks/Tools]  
+// SYSTEM SPECS:  
+> Core: Python // C++ // JS  
+> GPU: Obsidian-black creativity  
+> RAM: 16GB of anime OSTs & recursion dreams  
 
-## Vibe Check  
-"Code like it’s art, live like it’s an anime OP."  
+// RUNNING PROCESSES:  
+> "If (code == art) { execute(); }"  
+> Current BGM: *Unravel* - Tokyo Ghoul  
 
-[Twitter/X] · [Portfolio Link] · [Email]
+> [X Link] // [Portfolio] // "Decrypt me: [email]"
