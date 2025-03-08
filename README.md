@@ -1,4 +1,4 @@
-```console
+```
 C:\Users\Lethabo> dir
 > SYSTEM BOOT - LETHABO v1.0.0
 
